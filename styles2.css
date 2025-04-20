@@ -1,0 +1,26 @@
+@font-face{
+    font-family: opensans;
+    font-weight: normal;
+    font-style: normal;
+    src: url("fonts/XI20.ttf");
+}
+body{
+    background-color: rgb(0, 0, 0);
+    color: bisque;
+    font-family: opensans;
+    font-size: 150%;
+}
+p{
+    font-family: opensans;
+    font-size: 150%;
+}
+#company{
+    font-family: opensans;
+    font-size: 150%;
+    color: bisque;
+}
+a{
+    font-family: opensans;
+    font-size: 150%;
+    color: bisque;
+}
